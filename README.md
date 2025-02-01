@@ -41,7 +41,7 @@ Here are some of my recent projects:
 - **Project 3:** [Project Name] - Brief description
 
 ## 📫 Get in Touch
-- LinkedIn: [Your LinkedIn Profile](#)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/karuppasamy-ganesan/)
 - Email: [Your Email](mailto:your-email@example.com)
 - Portfolio: [Your Portfolio (if any)](#)
 
