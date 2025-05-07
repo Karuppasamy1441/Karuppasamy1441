@@ -1,40 +1,62 @@
+# 👋 Hi, I'm  Karuppasamy– Full Stack Java Developer
 
+### 💻 Software Developer | Problem Solver | Tech Enthusiast
 
-<h1 align="center">Hi 👋, I'm Karuppasamy</h1>
-<h3 align="center">A Java Full Stack developer</h3>
+I'm a passionate Java Full Stack Developer with hands-on experience  with practical experience in developing interactive web applications. Completed three projects demonstrating skills in **Java**, **Spring Boot**, **HTML**, **CSS** **JavaScript** and **Database Management**. Passionate about designing scalable and efficient solutions.  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=karuppasamy1441&label=Profile%20views&color=0e75b6&style=flat" alt="karuppasamy1441" /> </p>
+---
+## 🌐 Web Portfolio  
+🔗 [My Portfolio](https://karuppasamy1441.github.io/portfolio/)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karuppasamy1441" alt="karuppasamy1441" /></a> </p>
+---
 
-- 🔭 I’m currently working on [Medical Appointment System](https://github.com/Karuppasamy1441/Patient_Medicine_AppoinmentSystem-Min_-Project-2.git)
+## 🧰 Skills & Tools
 
-- 🌱 I’m currently learning **React**
-
-- 👯 I’m looking to collaborate on [Online Bus Ticket booking application](https://github.com/Karuppasamy1441/capstone-project-deploy.git)
-
-- 🤝 I’m looking for help with [employee Management System](https://github.com/Karuppasamy1441/Employee-Management-System-Mini-project-1.git)
-
-- 👨‍💻 All of my projects are available at [https://karuppasamy1441.github.io/portfolio/](https://karuppasamy1441.github.io/portfolio/)
-
-- 💬 Ask me about **Java ,Spring Boot**
-
-- 📫 How to reach me **gkaruppasamy2207@gmail.com**
-
-- 📄 Know about my experiences [MY RESUME](https://drive.google.com/file/d/1xEQhDIvfOfQM7ijp78JhrTAskwWIxMr8/view?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/karuppasamy-ganesan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/karuppasamy-ganesan/" height="30" width="40" /></a>
-<a href="https://instagram.com/karuppasamy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="karuppasamy" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/gkaruppasamy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gkaruppasamy" height="30" width="40" /></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />
+
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karuppasamy1441&show_icons=true&locale=en&layout=compact" alt="karuppasamy1441" /></p>
+## 🌟 Highlight Projects
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karuppasamy1441&show_icons=true&locale=en" alt="karuppasamy1441" /></p>
+### 📌 Project 1: **Medical Appointment System**
+- **Tech Stack:** Java, Spring Boot, MySQL, Html, CSS ,JavaScript,Bootstrap .
+- Developed Rest APIs to manage patient information, appointment  .
+- Implemented features such as registration .
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karuppasamy1441&" alt="karuppasamy1441" /></p>
+### 📌 Project 2: **Employee Management System**
+- **Tech Stack:** Java, Spring Boot, MySQL,  Html, CSS, JavaScript.Bootstrap
+- To handle CRUD operation for employee data and manage records with MYSQL integration .
+
+### 📌 Project 3: **Bus Ticket Booking Application**
+- **Tech Stack:**  Java, Spring Boot, MySQL, Html, CSS, JavaScript.Bootstrap
+- A bus ticket booking system with secure registration, seat availability , built using Data JPA, My SQL and Rest APIsfor scalability.
+
+---
+
+## 📜 Certifications
+
+- 🏅 **Java Full Stack Developer ** – [Guvi]  
+- 🏅 **Completed a Artificial Intelligence Internship ** – [AVASOFT]
+
+---
+
+## 📄 Resume  
+📥 [![Google Drive](https://img.shields.io/badge/Resume-Download-green?logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1xEQhDIvfOfQM7ijp78JhrTAskwWIxMr8/view?usp=drive_link)
+
+---
+
+## 🔗 Let's Connect
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/karuppasamy-ganesan)
+- 💬 [Email](mailto:gkaruppasamy2207@gmail.com)
+
+---
