@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **gkaruppasamy2207@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1RhCo_VfGzQN29roxdVBzEXY_MHnigSUB/view?usp=sharing](https://drive.google.com/file/d/1RhCo_VfGzQN29roxdVBzEXY_MHnigSUB/view?usp=sharing)
+- 📄 Know about my experiences [MY RESUME](https://drive.google.com/file/d/1xEQhDIvfOfQM7ijp78JhrTAskwWIxMr8/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
