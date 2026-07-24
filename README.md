@@ -1,12 +1,48 @@
-# 👋 Hi, I'm  Karuppasamy– Full Stack Java Developer
+# Karuppasamy Ganesan
 
-### 💻 Software Developer | Problem Solver | Tech Enthusiast
-
-I'm a passionate Java Full Stack Developer with hands-on experience  with practical experience in developing interactive web applications. Completed three projects demonstrating skills in **Java**, **Spring Boot**, **HTML**, **CSS** **JavaScript** and **Database Management**. Passionate about designing scalable and efficient solutions.  
+📧 karuppasamy1441@gmail.com  
+📱 +91 9940863142  
+📍 Chennai, India - 600089  
+🔗 [LinkedIn](https://linkedin.com/in/karuppasamy-ganesan)  
+💻 [GitHub](https://github.com/Karuppasamy1441)  
 
 ---
-## 🌐 Web Portfolio  
-🔗 [My Portfolio](https://karuppasamy1441.github.io/portfolio/)
+
+## 👨‍💻 Summary
+Backend-focused **Full Stack Java Developer** with hands-on experience in designing, developing, and supporting enterprise-grade applications. Skilled in **Java, Spring Boot, RESTful APIs, SQL**, and modern backend technologies. Strong expertise in **production support, root cause analysis, and real-time issue resolution**. Passionate about building scalable, high-performance, and maintainable applications while collaborating across cross-functional teams.
+
+---
+
+## 💼 Experience
+
+**Equiniti India – Trainee Software Engineer**  
+*July 2025 – June 2026*  
+
+- Worked on **EQUITRAX**, EQ's equity plan management platform handling ESPP and SOARS stock plans.  
+- Provided **L2 production support** for AI-enabled applications, handling escalations via ServiceNow.  
+- Delivered high-quality **L3 escalations** with complete diagnostics.  
+- Resolved production-critical tickets by reproducing issues in QA/UAT/DEV environments, analyzing logs, tracing code flow, and validating database records.  
+- Collaborated with Testing, DevOps, Operations, and Database teams for cross-functional issue resolution.  
+- Leveraged **GitHub Copilot** for faster and more accurate fixes.  
+
+---
+
+## 🎓 Education
+
+**Muthayammal Engineering College**  
+B.E Electronics and Communication Engineering  
+CGPA: **8.39 / 10**  
+*Graduated July 2023 – Namakkal*  
+
+---
+
+## 🛠 Skills
+
+- **Programming:** Java  
+- **Frameworks:** Spring Boot, Spring MVC, Hibernate, Spring Data JPA  
+- **Web Technologies:** HTML, CSS, JavaScript, Thymeleaf, JSP  
+- **Databases:** MySQL, SQL  
+- **Other:** REST API Development, Debugging, Software Design Principles, Development Tools  
 
 ---
 
@@ -20,43 +56,37 @@ I'm a passionate Java Full Stack Developer with hands-on experience  with practi
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />
-
 </p>
-
----
-
-## 🌟 Highlight Projects
-
-### 📌 Project 1: **Medical Appointment System**
-- **Tech Stack:** Java, Spring Boot, MySQL, Html, CSS ,JavaScript,Bootstrap .
-- Developed Rest APIs to manage patient information, appointment  .
-- Implemented features such as registration .
-
-### 📌 Project 2: **Employee Management System**
-- **Tech Stack:** Java, Spring Boot, MySQL,  Html, CSS, JavaScript.Bootstrap
-- To handle CRUD operation for employee data and manage records with MYSQL integration .
-
-### 📌 Project 3: **Bus Ticket Booking Application**
-- **Tech Stack:**  Java, Spring Boot, MySQL, Html, CSS, JavaScript.Bootstrap
-- A bus ticket booking system with secure registration, seat availability , built using Data JPA, My SQL and Rest APIsfor scalability.
 
 ---
 
 ## 📜 Certifications
 
-- 🏅 **Java Full Stack Developer ** – [Guvi]  
-- 🏅 **Completed a Artificial Intelligence Internship ** – [AVASOFT]
+- **Java Full Stack Developer** – GUVI  
+- **Artificial Intelligence Internship** – AVA SOFT  
 
 ---
 
-## 📄 Resume  
-📥 [![Google Drive](https://img.shields.io/badge/Resume-Download-green?logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1xEQhDIvfOfQM7ijp78JhrTAskwWIxMr8/view?usp=drive_link)
+## 🚀 Projects
+
+### Bus Ticket Booking Application
+**Tech Stack:** Java, Spring Boot, Maven, HTML, CSS, JavaScript, Thymeleaf, Bootstrap, MySQL  
+
+- Developed a scalable bus ticket booking application with secure user registration, authentication, and real-time seat availability.  
+- Implemented **Spring Data JPA, MySQL, and REST APIs** for efficient data management and modular architecture.  
+- Features include booking, cancellation, and user queries with reliable performance.  
+- 🔗 [GitHub Repository](https://github.com/Karuppasamy1441/capstone-project-deploy)  
 
 ---
 
-## 🔗 Let's Connect
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/karuppasamy-ganesan)
-- 💬 [Email](mailto:gkaruppasamy2207@gmail.com)
+## 🌐 Web Portfolio  
+🔗 [My Portfolio](https://karuppasamy1441.github.io/portfolio/)  
 
 ---
+
+## 💡 Key Strengths
+
+- Problem Solving & Debugging  
+- Adaptability  
+- Time Management  
+- Team Collaboration  
