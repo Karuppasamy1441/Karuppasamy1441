@@ -79,9 +79,12 @@ CGPA: **8.39 / 10**
 - 🔗 [GitHub Repository](https://github.com/Karuppasamy1441/capstone-project-deploy)  
 
 ---
-
 ## 🌐 Web Portfolio  
 🔗 [My Portfolio](https://karuppasamy1441.github.io/portfolio/)  
+
+## 📄 Download My Resume  
+[Click Here to Download](./KARUPPASAMY_GANESAN_RESUME.pdf)
+ 
 
 ---
 
