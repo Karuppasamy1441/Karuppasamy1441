@@ -2,7 +2,7 @@
 
 📧 karuppasamy1441@gmail.com  
 📱 +91 9940863142  
-📍 Chennai, India - 600089  
+📍 Theni, India - 625582  
 🔗 [LinkedIn](https://linkedin.com/in/karuppasamy-ganesan)  
 💻 [GitHub](https://github.com/Karuppasamy1441)  
 
@@ -56,6 +56,7 @@ CGPA: **8.39 / 10**
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" height="40" />
 </p>
 
 ---
